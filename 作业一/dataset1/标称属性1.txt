@@ -1,0 +1,136 @@
+Current.Status
+"appeal" 2
+"approved" 733
+"cancelled" 1536
+"complete" 97077
+"disapproved" 2
+"expired" 1370
+"filed" 12043
+"incomplete" 2
+"issued" 83559
+"plancheck" 16
+"reinstated" 563
+"revoked" 50
+"suspend" 193
+"withdrawn" 1754
+
+Fire.Only.Permit
+"" 180073
+"Y" 18827
+
+Permit.Type.Definition
+"additions alterations or repairs" 14663
+"demolitions" 600
+"grade or quarry or fill or excavate" 91
+"new construction" 349
+"new construction wood frame" 950
+"otc alterations permit" 178844
+"sign - erect" 2892
+"wall or painted sign" 511
+
+Proposed.Use
+"" 42439
+"1 family dwelling" 46346
+"2 family dwelling" 22061
+"accessory cottage" 5
+"adult entertainment" 5
+"ambulance service" 4
+"amusement center" 8
+"animal sale or care" 60
+"antenna" 115
+"apartments" 43032
+"artist live/work" 443
+"auto repairs" 239
+"automobile sales" 74
+"barber/beauty salon" 258
+"bath house" 5
+"building materials" 6
+"car wash" 5
+"chemical processing" 9
+"child care" 25
+"christmas tree lot" 18
+"church" 434
+"clinics-medic/dental" 678
+"club" 125
+"convalescent home" 16
+"dairies/dairy equip." 1
+"dance hall" 22
+"day care center" 40
+"day care home 7 - 12" 11
+"day care home gt 12" 83
+"day care home lt 7" 11
+"day care, non-res" 59
+"dry cleaners" 36
+"fence/retaining wall" 22
+"filling/service stn" 99
+"food/beverage hndlng" 5053
+"garment shops" 24
+"greenhouse" 72
+"health studios & gym" 332
+"hospital" 32
+"jail" 6
+"laundry/laundromat" 56
+"lending institution" 239
+"library" 33
+"manufacturing" 436
+"massage parlor" 104
+"meat/produce marts" 2
+"misc group residns." 119
+"mortuary" 12
+"moving & storage" 26
+"muni carbarn" 35
+"muni driver restroom" 5
+"museum" 139
+"nite club" 65
+"not applicable" 1
+"nursery(floral)" 25
+"nursing home gt 6" 14
+"nursing home lte 6" 4
+"nursing home non amb" 11
+"office" 23962
+"orphanage" 1
+"paint store" 6
+"parking lot" 67
+"phone xchnge/equip" 38
+"power plant" 82
+"printing plant" 34
+"prkng garage/private" 102
+"prkng garage/public" 175
+"prson'l svc tutor" 15
+"public assmbly other" 228
+"r-3(dwg) nursing" 4
+"radio & tv stations" 36
+"recreation bldg" 207
+"residential hotel" 1002
+"retail sales" 5079
+"roofing materials" 1
+"school" 748
+"sewage plant" 6
+"sfpd or sffd station" 98
+"sign" 6
+"social care facility" 47
+"sound studio" 28
+"stadium" 3
+"storage shed" 79
+"storage tanks" 5
+"swimming pool" 6
+"temple" 2
+"theater" 189
+"tourist hotel/motel" 1601
+"tower" 11
+"vacant lot" 385
+"warehouse, furniture" 65
+"warehouse,no frnitur" 674
+"wholesale sales" 40
+"workshop commercial" 219
+"workshop residential" 10
+
+Structural.Notification
+"" 191978
+"Y" 6922
+
+Voluntary.Soft.Story.Retrofit
+"" 198865
+"Y" 35
+
+
